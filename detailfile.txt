@@ -1,3 +1,3 @@
-Add to googlecalendar will allow user to save the date on the google calendar
-RSVP button will direct user to google form which allow user to confirm their arrival 
-View map open google map to show the wedding venue.
+"Add to googlecalendar" will allow user to save the date on the google calendar.
+"RSVP button" will direct user to google form which allow user to confirm their arrival. 
+"View map" will open google map to show the wedding venue.
